@@ -5,9 +5,9 @@
 
 <h2> Languages Used </h2>
 <ul>
- <li>HTML</li>
- <li>CSS</li>
- <li>JavaScript</li>
+ <li><h4>HTML</h4></li>
+ <li><h4>CSS</h4></li>
+ <li><h4>JavaScript</h4></li>
 </ul>
 
 <h2> Porject Prototype </h2>
