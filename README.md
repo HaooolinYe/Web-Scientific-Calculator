@@ -11,9 +11,15 @@
 </ul>
 
 <h2> Porject Prototype </h2>
-<p> This project is inspired by the following two youtube videos:
+<p> This project is inspired by the following youtube videos:
   <br>
   <ul>
- <li><a href="https://www.youtube.com/watch?v=f3mwKLXpOLk">Animated CSS Gradiented Background </a></li>
- <li><a href="https://www.youtube.com/watch?v=QS6Y0ezhyCs">Calculator's Portotype </a></li>
-</ul>
+  <li><a href="https://www.youtube.com/watch?v=f3mwKLXpOLk">Animated CSS Gradiented Background </a></li>
+  <li><a href="https://www.youtube.com/watch?v=QS6Y0ezhyCs">Calculator's Portotype </a></li>
+ </ul>
+</p>
+
+<h2>What's New</h2>
+<p>The web calculator shown in <a href="https://www.youtube.com/watch?v=QS6Y0ezhyCs">this prototype vide</a> contains only the elementary operations that you can think of:   <i>+, -, *, /</i>
+ <br>My goal is to update it to become a scientific calculator where you can do some advanced arithmetics: <em><strong>trigonometry, logarithm, and factorial</strong></em>.
+</p>
