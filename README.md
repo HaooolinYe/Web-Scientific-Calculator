@@ -20,6 +20,24 @@
 </p>
 
 <h2>What's New</h2>
-<p>The web calculator shown in <a href="https://www.youtube.com/watch?v=QS6Y0ezhyCs">this prototype vide</a> contains only the elementary operations that you can think of:   <i>+, -, *, /</i>
+<p>The web calculator shown in <a href="https://www.youtube.com/watch?v=QS6Y0ezhyCs">this prototype video</a> contains only the elementary operations that you can think of:   <i>+, -, *, /</i>
  <br>My goal is to update it to become a scientific calculator where you can do some advanced arithmetics: <em><strong>trigonometry, logarithm, and factorial</strong></em>.
+ <br>
+ In addition, we can always find a <em>"2nd"</em> button on our scientific calculator. What it does is after you pressing it,some of the buttons now switch to their <em>second-functions</em>. Here are some examples:
+ <br>
+ <ul>
+ <li><em><strong>sin</strong> -> <strong>arcsin</strong></em></li>
+ <li> <em><strong>arctan</strong> -> <strong>tan</strong></em></li>
+ <li><em><strong>ln</strong> -> <strong>e<sup>x</sup></strong></em></li>
+</ul>
+Notice this is a two-way-switching button, you can let the button change back to use its <em>first-function</em> anytime by just pressing <em>"2nd"</em> again.
+<br>
+Here's how it actually looks like on the website:
+<br>
+  <ul>
+    <li style="display:inline">Home</li>
+    <li style="display:inline">About</li>
+    <li style="display:inline">Blog</li>
+  </ul>
 </p>
+
