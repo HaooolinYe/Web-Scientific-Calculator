@@ -34,10 +34,15 @@ Notice this is a two-way-switching button, you can let the button change back to
 <br>
 Here's how it actually looks like on the website:
 <br>
-  <ul>
-    <li style="display:inline">Home</li>
-    <li style="display:inline">About</li>
-    <li style="display:inline">Blog</li>
-  </ul>
+  <dl>
+ <dt> 1<sup>st</sup>-funtion mode: </dt>
+    <dd>
+     <img src="https://user-images.githubusercontent.com/90864900/156285866-29c42fbe-3cfa-4c3d-a540-c5b73d39af2a.png">
+    </dd>
+ <dt> 2<sup>rd</sup>-funtion mode: </dt>
+    <dd>
+    <img src="https://user-images.githubusercontent.com/90864900/156286271-c71112d5-e840-4b5d-b83a-8d64f374d239.png">
+    </dd>
+  </dl>
 </p>
 
